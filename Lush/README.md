@@ -1,4 +1,4 @@
-Lush: Linux User Shell \n This Source file (micro.c) is a C developed linux user shell. 
+Lush: Linux User Shell - This Source file (micro.c) is a C developed linux user shell. 
 micro.c - support this features:
 1)
 2)
