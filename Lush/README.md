@@ -1,18 +1,15 @@
 # Lush: Linux User Shell
 
-This source file `micro.c` is a C-developed Linux user shell.
+This source file, `micro.c`, is a Linux user shell developed in C.
 
 ## Supported Features:
-1. Feature 1  
-2. Feature 2  
-3. Feature 3  
-4. Feature 4  
-5. Feature 5  
-6. Feature 6  
-7. Feature 7  
-8. Feature 8  
+1. Implements command-line parsing (input tokenizing).
+2. Supports built-in commands: `pwd`, `echo`, `cd`, `clear`, and `exit`.
+3. Provides input/output redirection.
+4. Utilizes dynamic memory allocation techniques.
+5. Handles both local and environment variables.
+6. Integrates `fork`, `execve`, and `wait` system calls for managing child-parent process relationships.
 
 ## Notes:
-The development of this source file continues and aims to reach the level of the standard Linux shell. 😉
+Development of this source file is ongoing, with the goal of reaching the functionality level of a standard Linux shell. 😉
 
----
