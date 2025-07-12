@@ -1,12 +1,18 @@
-Lush: Linux User Shell - This Source file (micro.c) is a C developed linux user shell. 
-micro.c - support this features: 
-1)
-2)
-3)
-4)
-5)
-6)
-7)
-8)
+# Lush: Linux User Shell
 
-The development of this source file continues aims to reach the level of the standard linux shell. ;)
+This source file `micro.c` is a C-developed Linux user shell.
+
+## Supported Features:
+1. Feature 1  
+2. Feature 2  
+3. Feature 3  
+4. Feature 4  
+5. Feature 5  
+6. Feature 6  
+7. Feature 7  
+8. Feature 8  
+
+## Notes:
+The development of this source file continues and aims to reach the level of the standard Linux shell. 😉
+
+---
